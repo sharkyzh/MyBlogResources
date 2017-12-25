@@ -20,7 +20,7 @@ NVM是管理node版本的工具，详情[点我查看](https://github.com/creati
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.5/install.sh | bash
 ```
 安装完成后，建议重新打开一个终端窗口来查看是否安装成功。
-
+ <!-- more -->
 
 ```
 #查看nvm版本

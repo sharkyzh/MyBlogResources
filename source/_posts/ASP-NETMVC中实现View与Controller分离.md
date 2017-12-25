@@ -17,7 +17,7 @@ tags:
 2. 新建一个类库
 
 sharkyzh.Mvc01.Controllers 
-
+ <!-- more -->
 3. 添加引用
 
 在此类库中添加**System.Web.dll,System.Web.Abstractions.dll,System.Web.Mvc.dll，System.Web.Routing.dl**的引用

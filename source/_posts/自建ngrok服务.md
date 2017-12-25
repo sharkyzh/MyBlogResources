@@ -22,7 +22,7 @@ wget https://storage.googleapis.com/golang/go1.5.linux-amd64.tar.gz
 如果提示证书错误或者无法下载，用下面这个命令试一下：
 wget -r -np -nd --accept=gz --no-check-certificate https://storage.googleapis.com/golang/go1.5.linux-amd64.tar.gz
 ```
-
+ <!-- more -->
 解压下载的二进制压缩包到  /usr/local
 
 ```
