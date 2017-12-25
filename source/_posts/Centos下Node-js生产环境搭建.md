@@ -67,4 +67,4 @@ nrm use taobao
 npm i pm2 webpack gulp grunt-cli -g
 ```
 ---
-==注意：本文所有操作均在CentOS7下，其它系统不保证安装成功！==
+注意：本文所有操作均在CentOS7下，其它系统不保证安装成功！
