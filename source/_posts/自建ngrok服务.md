@@ -3,10 +3,8 @@ title: 自建ngrok服务
 date: 2017-12-25 19:51:24
 category: 
     - ngrok
-    - linux
 tags:
     - ngrok
-    - linux
 ---
 ### 基于CentOS的自建ngrok服务
 
