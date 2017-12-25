@@ -2,8 +2,8 @@
 title: Centos下Node.js生产环境搭建
 date: 2017-12-23 09:33:18
 category: 
-    - Linux
-    - Node.js
+    - linux
+    - node.js
 tags: 
     - node.js 
     - linux
