@@ -152,3 +152,22 @@ server {
     }
 }
 ```
+
+#### ngrok 客户端使用
+
+> 客户端使用，拷贝刚刚生成的ngrok 或者 ngrok.exe文件到本地，创建ngrok.cfg配置文件，可以根据自己的实际情况进行配置
+
+```
+创建ngrok.cfg配置文件：
+server_addr: "51ngrok.cn:4443"
+trust_host_root_certs: false
+
+启动ngrok客户端：
+./ngrok -config=ngrok.cfg -subdomain test 8080
+
+ngrok客户端启动参数说明：
+"test" 是你自己定义的二级域名，不能与其他人重复
+"8080" 是你本地服务的端口
+```
+
+现在可以在外网通过访问http://test.51ngrok.cn这个地址来访问本地8080端口服务了
