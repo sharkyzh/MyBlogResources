@@ -26,7 +26,7 @@ vConsole是腾讯出的一个轻量、可拓展、针对手机网页的前端开
 ```
 npm install vconsole
 ```
-
+ <!-- more -->
 引入 dist/vconsole.min.js 到项目中：
 
 ```

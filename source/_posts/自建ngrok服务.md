@@ -110,7 +110,8 @@ cp device.key assets/server/tls/snakeoil.key
 
 设置变量并生成ngrok服务端和客户端
 ```
-GOOS=linux GOARCH=amd64  #如果是32位系统，这里 GOARCH=386
+#如果是32位系统，这里 GOARCH=386
+GOOS=linux GOARCH=amd64
 make release-server release-client 
 ```
 
@@ -121,7 +122,8 @@ make release-server release-client
 ```
 cd  /tmp/ngrok/
 
-GOOS=windows GOARCH=amd64 make release-server release-client
+GOOS=windows GOARCH=amd64
+make release-server release-client
 ```
 
 #### ngrokd服务启动
@@ -129,7 +131,8 @@ GOOS=windows GOARCH=amd64 make release-server release-client
 ```
 cd  /usr/ngrok/bin
 
-./ngrokd -domain="51ngrok.cn" -httpAddr=":8080" #因为服务器上还有其他网站，这里选择端口为8080
+#因为服务器上还有其他网站，这里选择端口为8080与8081
+./ngrokd -domain="51ngrok.cn" -httpAddr=":8080" -httpsAddr=":8081" 
 ```
 推荐使用screen一个新连接来执行，或者使用nohup / &后台运行。
 
