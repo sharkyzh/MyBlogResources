@@ -37,7 +37,7 @@ QQ企业邮箱地址：[https://exmail.qq.com](https://exmail.qq.com)
 ##### 准备CSR 文件
 
 AlphaSSL 证书的申请，需要先提交域名的 CSR（证书请求文件），然后用域名邮箱作验证，保证你是这个域名的所有者。CSR 很好生成，可以用 openssl 在本地生成，也可以去各大工具网站在线生成。
-
+<!-- more -->
 本次使用[https://www.chinassl.net/ssltools/generator-csr.html](https://www.chinassl.net/ssltools/generator-csr.html)来生成CSR文件。
 
 填写完信息后，最好勾选上发送生成的CSR文件到上面输入的邮箱。
