@@ -9,6 +9,7 @@ tags:
 ---
 
 #### 安装 dotnet core环境
+
 1. 添加 dotnet 产品源
 ```
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
