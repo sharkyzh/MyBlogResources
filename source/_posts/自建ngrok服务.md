@@ -1,10 +1,11 @@
 ---
 title: 自建ngrok服务
-date: 2017-12-25 19:51:24
-category: 
-    - ngrok
+category:
+  - ngrok
 tags:
-    - ngrok
+  - ngrok
+abbrlink: d82b023f
+date: 2017-12-25 19:51:24
 ---
 ### 基于CentOS的自建ngrok服务
 

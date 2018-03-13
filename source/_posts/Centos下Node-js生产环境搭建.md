@@ -1,10 +1,11 @@
 ---
 title: Centos下Node.js生产环境搭建
+category:
+  - node.js
+tags:
+  - node.js
+abbrlink: de34cddd
 date: 2017-12-23 09:33:18
-category: 
-    - node.js
-tags: 
-    - node.js 
 ---
 
 #### 安装依赖

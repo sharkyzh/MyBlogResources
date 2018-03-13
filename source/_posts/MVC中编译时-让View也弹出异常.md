@@ -1,12 +1,13 @@
 ---
 title: 'MVC中编译时,让View也弹出异常'
-date: 2017-12-25 22:46:17
 category:
-    - .net
-    - mvc
+  - .net
+  - mvc
 tags:
-    - .net
-    - mvc
+  - .net
+  - mvc
+abbrlink: eb7d2892
+date: 2017-12-25 22:46:17
 ---
 1. 卸载项目
 2. 编辑项目

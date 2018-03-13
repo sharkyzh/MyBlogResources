@@ -1,11 +1,12 @@
 ---
 title: ngrok配置https
-date: 2018-01-30 17:19:10
 category:
-    - ngrok
+  - ngrok
 tags:
-    - ngrok
-    - https
+  - ngrok
+  - https
+abbrlink: 8f3e9247
+date: 2018-01-30 17:19:10
 ---
 
 > 最近团队要做微信小程序的开发，需要用到https，以前搭建的ngrok由于使用的是自己签发的证书，所以网址栏会显示大大的红叉，对于强迫症的人实在是难受，搜索了网上的教程及结合自己的摸索，现记录下来，方便后人能方便的配置。

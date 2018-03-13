@@ -1,12 +1,13 @@
 ---
 title: ASP.NETMVC中实现View与Controller分离
-date: 2017-12-25 22:34:42
 category:
-    - .net
-    - mvc
+  - .net
+  - mvc
 tags:
-    - .net
-    - mvc
+  - .net
+  - mvc
+abbrlink: 33f88f8f
+date: 2017-12-25 22:34:42
 ---
 1. 新建一个空的MVC项目
 

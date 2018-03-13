@@ -1,12 +1,13 @@
 ---
 title: 'MVC中如何在Views目录下存放css,js,html文件'
-date: 2018-01-11 12:00:00
 category:
-    - .net
-    - mvc
+  - .net
+  - mvc
 tags:
-    - .net
-    - mvc
+  - .net
+  - mvc
+abbrlink: e1f81db1
+date: 2018-01-11 12:00:00
 ---
 
 > 去年做项目的时候，用到换换肤的技术，但是模板放在View目录后，css，js文件不能访问。

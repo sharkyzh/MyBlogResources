@@ -1,11 +1,12 @@
 ---
 title: CentOS7安装Nginx与DotNetCore环境
-date: 2018-02-24 09:22:49
 category:
-    - .net core
+  - .net core
 tags:
-    - .net core
-    - centos
+  - .net core
+  - centos
+abbrlink: 8b1ab2d9
+date: 2018-02-24 09:22:49
 ---
 
 #### 安装 dotnet core环境

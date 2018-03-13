@@ -1,11 +1,12 @@
 ---
 title: openssl将私钥和crt证书合成pfx证书
-date: 2017-12-25 22:03:25
-category: 
-    - https
+category:
+  - https
 tags:
-    - https
-    - 证书
+  - https
+  - 证书
+abbrlink: 33a6a02f
+date: 2017-12-25 22:03:25
 ---
 
 在IIS配置ssl的时候，安装服务器证书，发现安装后，刷新下证书就消失了，在编辑绑定的时候，可选证书中也没有安装的证书。

@@ -1,10 +1,11 @@
 ---
 title: CentOS7防火墙开放端口
-date: 2017-12-25 22:27:25
 category:
-    - linux
+  - linux
 tags:
-    - linux
+  - linux
+abbrlink: '91400291'
+date: 2017-12-25 22:27:25
 ---
 CentOS升级到7之后，发现无法使用iptables控制Linuxs的端口，google之后发现Centos 7使用firewalld代替了原来的iptables。
 

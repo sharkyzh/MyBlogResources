@@ -1,12 +1,13 @@
 ---
 title: WebApi接口参数传参详解
-date: 2018-01-12 17:34:42
 category:
-    - .net
-    - webapi
+  - .net
+  - webapi
 tags:
-    - .net
-    - webapi
+  - .net
+  - webapi
+abbrlink: fcb54dee
+date: 2018-01-12 17:34:42
 ---
 
 #### 一、Get请求
