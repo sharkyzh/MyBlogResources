@@ -1,10 +1,10 @@
 ---
 title: linux下screen命令详解
 category:
-  - linux
+  - Linux
   - screen
 tags:
-  - linux
+  - Linux
   - screen
 abbrlink: 40ed92e7
 date: 2017-12-25 22:12:12
